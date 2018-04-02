@@ -35,6 +35,8 @@ To see the About-me content, simply import the library
 import neotheicebird
 ```
 
+and you should see:
+
 > Hello. I am @neotheicebird a.k.a Prashanth. 
 I am a Python Developer. I work freelance. 
 I started Spacetime Education, a python classroom in my city, Chennai. Checkout https://spacetime.education.
