@@ -40,8 +40,7 @@ Learnings
 
 You can learn about the best practises to package, build and share python code from this PyCon Talk by Dave Forgac:
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/qOH-h-EKKac" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+[![PyCon Talk](https://img.youtube.com/vi/qOH-h-EKKac/0.jpg)](https://www.youtube.com/watch?v=qOH-h-EKKac)
+
 
 To build this project from scratch follow the tutorial at: []http://neotheicebird.readthedocs.io/en/latest/tutorial.html](http://neotheicebird.readthedocs.io/en/latest/tutorial.html)
