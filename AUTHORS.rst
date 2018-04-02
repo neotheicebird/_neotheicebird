@@ -1,17 +1,12 @@
 Authors
 =======
 
-Development Leads
------------------
+Developer
+---------
 
 - Prashanth Gandhiraj <neotheicebird@gmail.com>
-
-Core Developers
----------------
-
-- name <email>
 
 Contributors
 ------------
 
-- name <email>
+None. Yet.

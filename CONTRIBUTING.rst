@@ -12,8 +12,7 @@ Types of Contributions
 Report Bugs
 ~~~~~~~~~~~
 
-Report bugs to Prashanth Gandhiraj at neotheicebird@gmail.com or on the issues page of
-the respective online repository where neotheicebird is hosted.
+Report bugs to Prashanth Gandhiraj at neotheicebird@gmail.com or on the issues page of the repo.
 
 If you are reporting a bug, please include:
 
@@ -24,14 +23,12 @@ If you are reporting a bug, please include:
 Fix Bugs
 ~~~~~~~~
 
-Look through the issues page of the respective online repository where neotheicebird is hosted for bugs.
-Anything tagged with "bug" is open to whoever wants to implement it.
+Create an issue on Github. Anything tagged with "bug" is open to whoever wants to implement it.
 
 Implement Features
 ~~~~~~~~~~~~~~~~~~
 
-Look through the issues page of the respective online repository where neotheicebird is hosted for features.
-Anything tagged with "feature" is open to whoever wants to implement it.
+Look through the issues page for features. Anything tagged with "feature" is open to whoever wants to implement it.
 
 Write Documentation
 ~~~~~~~~~~~~~~~~~~~
@@ -42,8 +39,7 @@ official neotheicebird docs or in docstrings.
 Submit Feedback
 ~~~~~~~~~~~~~~~
 
-The best way to send feedback is to file an issue at neotheicebird@gmail.com or on the issues page of
-the respective online repository where neotheicebird is hosted.
+The best way to send feedback is to file an issue at https://github.com/neotheicebird/neotheicebird/issues.
 
 If you are proposing a feature:
 
@@ -60,7 +56,7 @@ Ready to contribute? Here's how to set up `neotheicebird` for local development.
 1. Fork the `neotheicebird` repo.
 2. Clone your fork locally::
 
-    $ git clone <remote url to your forked version of neotheicebird>
+    $ git clone https://github.com/neotheicebird/neotheicebird.git
 
 3. Install your local copy into a virtual environment using virtualenv_ or conda_.
 If you have virtualenvwrapper_ installed, this is how you set up your fork for local development::

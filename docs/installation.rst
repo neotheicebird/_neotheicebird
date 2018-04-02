@@ -13,7 +13,7 @@ If you do not have Python_ installed, please download the latest version from `P
 
    Or, if you have git_ installed you can clone the project::
 
-    $ git clone <remote url to neotheicebird>
+    $ git clone https://github.com/neotheicebird/neotheicebird.git
 
 3. Navigate to the project's root directory where the setup script called `setup.py` is located::
 
