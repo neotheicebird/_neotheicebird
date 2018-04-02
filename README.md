@@ -43,4 +43,4 @@ You can learn about the best practises to package, build and share python code f
 [![PyCon Talk](https://img.youtube.com/vi/qOH-h-EKKac/0.jpg)](https://www.youtube.com/watch?v=qOH-h-EKKac)
 
 
-To build this project from scratch follow the tutorial at: []http://neotheicebird.readthedocs.io/en/latest/tutorial.html](http://neotheicebird.readthedocs.io/en/latest/tutorial.html)
+To build this project from scratch follow the tutorial at: [http://neotheicebird.readthedocs.io/en/latest/tutorial.html](http://neotheicebird.readthedocs.io/en/latest/tutorial.html)
