@@ -22,21 +22,21 @@ Installation
 
 This package can be installed using:
 
-.. highlight::shell
-    pip install neotheicebird
+``pip install neotheicebird``
 
 Sample usage
 ------------
 
 To see the About-me content, simply import the library
 
-.. highlight::python
-    import neotheicebird
+``import neotheicebird``
 
 Learnings
 ---------
 
 You can learn about the best practises to package, build and share python code from this PyCon Talk by Dave Forgac:
+
+https://www.youtube.com/embed/qOH-h-EKKac
 
 .. raw:: html
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
