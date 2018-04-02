@@ -15,7 +15,7 @@ This package has 2 purposes:
 
 This is just like creating a Github account, or a Twitter account. Run a "commandline blog", create jokes, its all possible through a package.
 
-For more information, go to: []http://neotheicebird.readthedocs.io/en/latest/](http://neotheicebird.readthedocs.io/en/latest/)
+For more information, go to: [http://neotheicebird.readthedocs.io/en/latest/](http://neotheicebird.readthedocs.io/en/latest/)
 
 Installation
 ------------
