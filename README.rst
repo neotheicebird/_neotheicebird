@@ -11,53 +11,36 @@ This package has 2 purposes:
 
 1. Developers can simply install and import this package right from the console to know about me or my works. You can think of this package like a twitter handle and reaching to the tweets under the handle.
 
-2. I started this project to learn more about python packaging and deployment. You can the best practises to create and deploy python packages to the PyPi index, with minimal code.
+2. I started this project to learn more about python packaging and deployment. You can learn the best practises used to create and deploy python packages to the PyPi index, by editing this minimal code. You can fork this project here: https://github.com/neotheicebird/neotheicebird.git
 
 This is just like creating a Github account, or a Twitter account. Commandline is the canvas, let's express through it. Run a "commandline blog", create jokes, its all possible through a package.
 
+For more information, go to: http://neotheicebird.readthedocs.io/en/latest/
 
-Tests
------
+Installation
+------------
 
-You can use `tox` to run automated tests for Py27 and Py36 environments.
+This package can be installed using:
 
-Tutorial
---------
+.. highlight::shell
+    pip install neotheicebird
 
+Sample usage
+------------
 
-Setting up travis CI
---------------------
+To see the About-me content, simply import the library
 
-Travis CI is a continuous Integration service. Your code is built, test and even deployed (optionally) on Travis.
+.. highlight::python
+    import neotheicebird
 
-To setup Travis CI, you need to create an account on https://travis-ci.org using Github Sign-In. To start CI:
+Learnings
+---------
 
-1. Go to [https://travis-ci.org/profile](https://travis-ci.org/profile) and Switch on this project for CI.
-2. Add a `.travis.yml` file to your local project repo. The contents of this file could be:
-
-```
-language: python
-python:
-  - "2.6"
-  - "2.7"
-  - "3.3"
-  - "3.4"
-  - "3.5"
-  - "3.5-dev"  # 3.5 development branch
-  - "3.6"
-  - "3.6-dev"  # 3.6 development branch
-  - "3.7-dev"  # 3.7 development branch
-# command to install dependencies
-install:
-  - pip install -r requirements.txt
-# command to run tests
-script:
-  - pytest # or py.test for Python versions 3.5 and below
-```
-3. Commit and Git push to trigger Travis to do its job.
-
-References
-----------
+You can learn about the best practises to package, build and share python code from this PyCon Talk by Dave Forgac:
 
 .. raw:: html
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/qOH-h-EKKac" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/qOH-h-EKKac" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+
+To build this project from scratch follow the tutorial at: http://neotheicebird.readthedocs.io/en/latest/tutorial.html

@@ -26,7 +26,7 @@ test_requirements = [
 
 setup(
     name="neotheicebird",
-    version="0.1.0",
+    version="0.1.1",
     description="Its a package that describes me. Kinda like an about-me page. You can learn about me by installing the library and importing it.",
     long_description=readme + "\n\n" + changelog,
     author="Prashanth Gandhiraj",
