@@ -16,8 +16,7 @@ __version__ = "0.1.0"
 # About me
 about_me = """Hello. I am @neotheicebird a.k.a Prashanth. 
 I am a Python Developer. I work freelance. 
-I started Spacetime Education, a python classroom in my city, Chennai.
-Tags: Programmer, Minimalist, Lifelong learner, Webaholic, Friendly introvert, Non-linear thinker, Unapologetic questioner, Millennial.
-"""
+I started Spacetime Education, a python classroom in my city, Chennai. Checkout https://spacetime.education.
+Tags: Programmer, Minimalist, Lifelong learner, Webaholic, Friendly introvert, Non-linear thinker, Unapologetic questioner, Millennial."""
 
 print(about_me)
