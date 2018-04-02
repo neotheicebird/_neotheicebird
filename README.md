@@ -1,19 +1,19 @@
 neotheicebird
-===============================
+=============
 
-Its an "About me" page on Pip index.
+An about-me page as a python library.
 
-This "About me" python package contains information about me as a developer.
+This python package contains information about me as a developer.
 
-Why did I create this package?
+### Why do we need this package?
 
 This package has 2 purposes:
 
 1. Developers can simply install and import this package right from the console to know about me or my works. You can think of this package like a twitter handle and reaching to the tweets under the handle.
 
-2. I started this project to learn more about python packaging and deployment. You can learn the best practises used to create and deploy python packages to the PyPi index, by editing this minimal code. You can fork this project here: https://github.com/neotheicebird/neotheicebird.git
+2. This project can be used to learn more about python packaging and deployment. You can learn the best practises used to create and deploy python packages to the PyPi index, by editing this minimal code. You can fork this project here: https://github.com/neotheicebird/neotheicebird.git
 
-This is just like creating a Github account, or a Twitter account. Commandline is the canvas, let's express through it. Run a "commandline blog", create jokes, its all possible through a package.
+This is just like creating a Github account, or a Twitter account. Run a "commandline blog", create jokes, its all possible through a package.
 
 For more information, go to: []http://neotheicebird.readthedocs.io/en/latest/](http://neotheicebird.readthedocs.io/en/latest/)
 
@@ -35,7 +35,12 @@ To see the About-me content, simply import the library
 import neotheicebird
 ```
 
-Learnings
+> Hello. I am @neotheicebird a.k.a Prashanth. 
+I am a Python Developer. I work freelance. 
+I started Spacetime Education, a python classroom in my city, Chennai. Checkout https://spacetime.education.
+Tags: Programmer, Minimalist, Lifelong learner, Webaholic, Friendly introvert, Non-linear thinker, Unapologetic questioner, Millennial.
+
+Reference
 ---------
 
 You can learn about the best practises to package, build and share python code from this PyCon Talk by Dave Forgac:
